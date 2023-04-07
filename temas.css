@@ -9,33 +9,60 @@
 .encabezado{
 
     width: 100%;
-height: 150px;
-background-color: wheat;
+    height: 150px;
+    background-color: wheat;
+    text-align: center;
+    font-size: 30px;
 }
 .menu{
     width:100%;
     height: 100px;
-    background-color: slateblue;
-}
-.contenedor2{
-    width:100%;
-    height: 1200px;
-    background-color: turquoise;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 14px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
+
 }
-.izquierda{
-    width: 20%;
-    height: 1200px;
-    background-color: violet;
-}
-.centro{
-    width: 60%;
-height: 1200px;
-background-color: rosybrown;
+.menu2{
+    width: 100%;
+    height: 150px;
+    background-color: cyan
 }
 
 .derecha{
     width: 20%;
     height: 1200px;
-    background-color: teal;
+    background-color: hotpink;
 }
+.Tecnología {
+    width: 120px;
+    height: 78px;
+    background-color: aliceblue;
+    margin: 2px;
+}
+.Matemáticas{ 
+    width: 120px;
+    height: 78px;
+    background-color: aliceblue;
+    margin: 2px;
+}
+.Sociales{
+    width: 120px;
+    height: 78px;
+    background-color: aliceblue;
+    margin: 2px;
+ }
+ .Inglés{
+    width: 120px;
+    height: 78px;
+    background-color: aliceblue;
+    margin: 2px;
+  }
+  .Biología{ 
+    width: 120px;
+    height: 78px;
+    background-color: aliceblue;
+    margin: 2px;
+  }
