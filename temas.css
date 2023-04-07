@@ -18,12 +18,12 @@
     font-size: 14px;
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    display: flex;
     }
     .contenedor2{
         width: 100%;
         height: 1200px;
         background-color: cyan;
+        display: flex;
     } 
       .izqquierda{
         width: 20%;
