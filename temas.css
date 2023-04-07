@@ -1,12 +1,12 @@
     .contenedor{
     width: 100%;
     height: 1400px;
-    background-color: lightpink;
+    background-color: wheat;
     }
     .encabezado{
     width: 100%;
     height: 200px;
-    background-color: wheat;
+    background-color: lightpink;
     text-align: center;
     font-size: 30px;
     }
@@ -38,35 +38,35 @@
     .derecha{
     width: 20%;
     height: 1200px;
-    background-color: hotpink;
+    background-color: mediumorchid;
     }
     .Tecnología {
         width: 120px;
         height: 78px;
-        background-color: aliceblue;
+        background-color: lavender;
         margin: 2px;
     }
     .Matemáticas{ 
         width: 120px;
         height: 78px;
-        background-color: aliceblue;
+        background-color: lavender;
         margin: 2px;
     }
     .Sociales{
         width: 120px;
         height: 78px;
-        background-color: aliceblue;
+        background-color: lavender;
         margin: 2px;
     }
      .Inglés{
         width: 120px;
         height: 78px;
-        background-color: aliceblue;
+        background-color: lavender;
         margin: 2px;
     }
     .Biología{ 
         width: 120px;
         height: 78px;
-        background-color: aliceblue;
+        background-color: lavender;
         margin: 2px;
     }
