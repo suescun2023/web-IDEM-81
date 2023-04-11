@@ -6,14 +6,12 @@
 .encabezado{
     width: 100%;
     height: 200px;
-    background-color: rgb(181, 194, 255);
-    text-align: center;
-    font-size: 35px;
+    background-color: aquamarine;
 }
 .menu{
     width: 100%;
     height: 80px;
-    background-color: rgb(255, 180, 226);
+    background-color: aqua;
     text-align: center;
     font-size: 14px;
     color: black;
@@ -23,18 +21,18 @@
 .contenedor2{
     width: 100%;
     height: 1200px;
-    background-color: rgb(255, 203, 229);
+    background-color: fuchsia;
     display: flex;
 }
 .derecha{
     width: 20%;
     height: 1200px;
-    background-color:  rgb(255, 203, 229);
+    background-color: hotpink;
 }
 .centro{
     width: 60%;
     height: 1200px;
-    background-color: rgb(225, 167, 252);
+    background-color: blueviolet;
 }
 .izquierda{
     width: 20%;
@@ -44,30 +42,30 @@
 .Tecnología {
     width: 120px;
     height: 78px;
-    background-color: beige;
+    background-color: mediumpurple;
     margin: 2px;
 }
 .Matemáticas{
     width: 120px;
     height: 78px;
-    background-color: beige;
+    background-color: mediumpurple;
     margin: 2px;
 }
 .Sociales{
     width: 120px;
     height: 78px;
-    background-color: beige;
+    background-color: mediumpurple;
     margin: 2px;
 }
 .Inglés{
     width: 120px;
     height: 78px;
-    background-color: beige;
+    background-color: mediumpurple;
     margin: 2px;
 }
 .Biología{
     width: 120px;
     height: 78px;
-    background-color: beige;
+    background-color: mediumpurple;
     margin: 2px;
 }
