@@ -1,0 +1,25 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+background-image: url("texture-gccd191666_1280.jpg");
+background-repeat: no-repeat;
+}
+.img{
+position: relative;
+width: 190px;
+height: 190px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("hd-wallpaper-gc6baffc6e_1280.jpg");
+}
+.contenedor{
+height: 230px;
+}
+.texto{
+font-size: 40px;
+text-align: justify;
+color: black; 
+}
