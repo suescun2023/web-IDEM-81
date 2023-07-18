@@ -3,17 +3,8 @@ padding: 0px;
 margin: 0px;
 }
 body{
-background-image: url("4k-g25ca1a095_1280.jpg");
+background-image: url("imagendelmar.jpg");
 background-repeat: no-repeat;
-}
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("hd-wallpaper-gc6baffc6e_1280.jpg");
 }
 .contenedor{
 height: 230px;
@@ -24,7 +15,7 @@ text-align: justify;
 color: black; 
 }
 .contenido{
-height: 280px;
+height: 48px;
 width: 100%;
 position: absolute;
 top: 410px;
@@ -32,14 +23,28 @@ top: 410px;
 .imagentecno{
 background-repeat: no-repeat;
 float:left;
+height: 280px;
+width: 260px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("robotyhumano.jpeg");
+}
+.textotecno{
+text-align: justify;
+color: black;
+font-size: 20px;
+}
+.imagenmate{
+background-repeat: no-repeat;
+float:left;
 height: 200px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("medellin.jpeg");
+background-image: url("Algebra.jpg");
 }
 .textotecno{
 text-align: justify;
-color: azure;
+color: black;
 font-size: 20px;
-}
+} 

@@ -6,8 +6,8 @@ ul, ol{
 list-style: none;
 }
 .botones li a{
-background-color: bisque;
-color: brown;
+background-color: paleturquoise;
+color: darkblue;
 text-decoration: none;
 padding: 10px 10px;
 display: block;
@@ -24,7 +24,7 @@ float: left  ;
 display: block;
 }
 .botones li a:hover {
-background-color: rosybrown;
+background-color: darkturquoise;
 }
 .menu li ul{
 position: absolute;
