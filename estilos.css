@@ -43,7 +43,21 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("Algebra.jpg");
 }
-.textotecno{
+.textomate{
+text-align: justify;
+color: black;
+font-size: 20px;
+} 
+.imagenreli{
+background-repeat: no-repeat;
+float:left;
+height: 200px;
+width: 260px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("")
+}
+.textoreli{
 text-align: justify;
 color: black;
 font-size: 20px;
