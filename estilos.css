@@ -27,8 +27,17 @@ height: 280px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("");
+background-image: url("imagentecno1.jpeg");
 }
+.imagentecno2{
+    background-repeat: no-repeat;
+    float:left;
+    height: 280px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right:5px;
+    background-image: url("imagentecno2.jpeg");
+    }
 .textotecno{
 text-align: justify;
 color: black;
@@ -69,7 +78,7 @@ height: 200px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("")
+background-image: url("WhatsApp\ Image\ 2023-07-29\ at\ 18.05.25.jpeg")
 }
 .textosoci{
 text-align: justify;
