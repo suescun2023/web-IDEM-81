@@ -6,7 +6,7 @@ ul, ol{
 list-style: none;
 }
 .botones li a{
-background-color: deepskyblue;
+background-color: hotpink;
 color: darkblue;
 text-decoration: none;
 padding: 10px 10px;
@@ -24,7 +24,7 @@ float: left  ;
 display: block;
 }
 .botones li a:hover {
-background-color: azure;
+background-color: lavender;
 }
 .menu li ul{
 position: absolute;

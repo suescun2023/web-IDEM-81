@@ -3,14 +3,14 @@ padding: 0px;
 margin: 0px;
 }
 body{
-background-image: url("FONDOazulclaro.jpg");
+background-image: url("cherry-blossom\ \(tercer\ periodo\).jpg");
 background-repeat: no-repeat;
 }
 .contenedor{
 height: 230px;
 }
 .texto{
-font-size: 40px;
+font-size: 60px;
 text-align: justify;
 color: black; 
 }
@@ -38,12 +38,12 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("imagentecno2.jpeg");
 }
-.textotecno{
+.texto.tecnoP3{
 text-align: justify;
 color: black;
 font-size: 25px;
 }
-.imagenmate{
+.imagen.mateP3{
 background-repeat: no-repeat;
 float:left;
 height: 200px;
@@ -52,10 +52,10 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("Algebra.jpg");
 }
-.textomate{
+.texto.mateP3{
 text-align: justify;
 color: black;
-font-size: 25px;
+font-size: 60px;
 } 
 .imagenreli{
 background-repeat: no-repeat;
@@ -71,7 +71,7 @@ text-align: justify;
 color: black;
 font-size: 25px;
 }
-.imagensoci{
+.imagen.sociP3{
 background-repeat: no-repeat;
 float:left;
 height: 200px;
@@ -80,20 +80,22 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("WhatsApp\ Image\ 2023-07-29\ at\ 18.05.25.jpeg")
 }
-.textosoci{
+.texto.sociP3{
+font-size: 60px;
 text-align: justify;
 color: black;
-font-size: 25px;
+font-size: 60px;
 } 
 .textobio{
 text-align: justify;
 color: black;
 font-size: 25px;
 } 
-.textoin{
+.texto.inP3{
+font-size: 35px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: justify;
 color: black;
-font-size: 25px;
 } 
 
 
