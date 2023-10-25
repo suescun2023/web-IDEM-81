@@ -92,12 +92,20 @@ color: black;
 font-size: 25px;
 } 
 .texto.inP3{
-font-size: 35px;
+font-size: 40px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: justify;
 color: black;
 } 
-
+.video.tecnoP3{
+background-repeat: no-repeat;
+float:left;
+height: 280px;
+width: 260px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("Tecnologia\ pagina\ web.mp4");
+}
 
 
 
