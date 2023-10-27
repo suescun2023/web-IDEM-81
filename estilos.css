@@ -43,7 +43,7 @@ text-align: justify;
 color: black;
 font-size: 25px;
 }
-.imagen.mateP3{
+.imagenmate{
 background-repeat: no-repeat;
 float:left;
 height: 200px;
@@ -71,20 +71,19 @@ text-align: justify;
 color: black;
 font-size: 25px;
 }
-.imagen.sociP3{
+.imagensoci{
 background-repeat: no-repeat;
 float:left;
-height: 200px;
-width: 260px;
+height: 672px;
+width: 1200px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("WhatsApp\ Image\ 2023-07-29\ at\ 18.05.25.jpeg")
+background-image: url("Mapa\ mental\ sociales\ P2.jpeg")
 }
 .texto.sociP3{
 font-size: 60px;
 text-align: justify;
 color: black;
-font-size: 60px;
 } 
 .textobio{
 text-align: justify;
@@ -92,11 +91,55 @@ color: black;
 font-size: 25px;
 } 
 .texto.inP3{
-font-size: 40px;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: justify;
 color: black;
-} 
+font-size: 30px;
+}
+.imageninP3{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ peace\ P3.png")
+}
+.imagenin1{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ de\ ingles\ 1\ P3.jpg")
+}
+.imagenin2{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ de\ ingles\ 2\ P3.jpg")
+}
+.imagenin3{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ de\ ingles\ 3\ P3.png")
+}
+.imagenin4{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ de\ ingles\ 4\ P3.jpg")
+}
 .video.tecnoP3{
 background-repeat: no-repeat;
 float:left;
@@ -104,7 +147,7 @@ height: 280px;
 width: 260px;
 margin-left: 10px;
 margin-right: 10px;
-background-image: url("Tecnologia\ pagina\ web.mp4");
+background-image: url("Tecnologia\ video\ páginaweb\ P3.mp4");
 }
 
 
