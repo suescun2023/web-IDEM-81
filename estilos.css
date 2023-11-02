@@ -149,6 +149,51 @@ margin-left: 10px;
 margin-right: 10px;
 background-image: url("Tecnologia\ video\ páginaweb\ P3.mp4");
 }
+.imagenmateP3{
+background-repeat: no-repeat;
+float:left;
+height: 350px;
+width: 350px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ factorización.png")
+}
+.imagen1mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 400px;
+width: 400px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("Factorización\ por\ factor\ común.png")
+}
+.imagen2mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 350px;
+width: 350px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("Factorizacion\ de\ suma\ y\ diferencia\ de\ cubos.jpg")
+}
+.video1.mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 280px;
+width: 260px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 4.56.35\ PM.mp4");
+}
+.video2.mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 280px;
+width: 260px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
+}
 
 
 
