@@ -211,15 +211,25 @@ background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
         width: 270px;
         margin-left: 4px;
         margin-right:4px;
-        background-image: url("palabrasingles.jpeg");
+        background-image: url("palabrotas.jpg");
+    
         }
         .imagensociales4{
             background-repeat: no-repeat;
             float:left;
-            height: 270px;
-            width: 270px;
+            height: 280px;
+            width: 280px;
             margin-left: 4px;
             margin-right:4px;
-            background-image: url("infobrafiasociales.jpeg");
+            background-image: url("infografiasociales.jpg");
             }
 
+            .imageningles4{
+                background-repeat: no-repeat;
+                float:left;
+                height: 270px;
+                width: 270px;
+                margin-left: 4px;
+                margin-right:4px;
+                background-image: url("estereotipos.jpg");
+                }
