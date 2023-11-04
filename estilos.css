@@ -176,24 +176,7 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("Factorizacion\ de\ suma\ y\ diferencia\ de\ cubos.jpg")
 }
-.video1.mateP3{
-background-repeat: no-repeat;
-float:left;
-height: 280px;
-width: 260px;
-margin-left: 10px;
-margin-right: 10px;
-background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 4.56.35\ PM.mp4");
-}
-.video2.mateP3{
-background-repeat: no-repeat;
-float:left;
-height: 280px;
-width: 260px;
-margin-left: 10px;
-margin-right: 10px;
-background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
-}
+
 .imagenmate3{
     background-repeat: no-repeat;
     float:left;
@@ -204,7 +187,7 @@ background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
     background-image: url("factorizacion\ ejemplos.jpeg");
     }
 
-    .imageningles4{
+    .imageningles3{
         background-repeat: no-repeat;
         float:left;
         height: 270px;
@@ -214,17 +197,7 @@ background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
         background-image: url("palabrotas.jpg");
     
         }
-        .imagensociales4{
-            background-repeat: no-repeat;
-            float:left;
-            height: 280px;
-            width: 280px;
-            margin-left: 4px;
-            margin-right:4px;
-            background-image: url("infografiasociales.jpg");
-            }
-
-            .imageningles4{
+.imageningles4{
                 background-repeat: no-repeat;
                 float:left;
                 height: 270px;
@@ -233,3 +206,39 @@ background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
                 margin-right:4px;
                 background-image: url("estereotipos.jpg");
                 }
+                .video1mateP3{
+                    background-repeat: no-repeat;
+                    float:left;
+                    height: 280px;
+                    width: 260px;
+                    margin-left: 10px;
+                    margin-right: 10px;
+                    background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 4.56.35\ PM.mp4");
+                    }
+                    .video2mateP3{
+                    background-repeat: no-repeat;
+                    float:left;
+                    height: 280px;
+                    width: 260px;
+                    margin-left: 10px;
+                    margin-right: 10px;
+                    background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
+                    }
+.imagen1sociP3{
+background-repeat: no-repeat;
+float:left;
+height: 650px;
+width: 650px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("infografia1socialesP3.jpeg")
+}
+.imagen2sociP3{
+background-repeat: no-repeat;
+float:left;
+height: 650px;
+width: 650px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("infografia2socialesP3.jpeg")
+}
