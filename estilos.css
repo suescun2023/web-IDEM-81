@@ -194,7 +194,32 @@ margin-left: 10px;
 margin-right: 10px;
 background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
 }
+.imagenmate3{
+    background-repeat: no-repeat;
+    float:left;
+    height: 270px;
+    width: 270px;
+    margin-left: 4px;
+    margin-right:4px;
+    background-image: url("factorizacion\ ejemplos.jpeg");
+    }
 
-
-
+    .imageningles4{
+        background-repeat: no-repeat;
+        float:left;
+        height: 270px;
+        width: 270px;
+        margin-left: 4px;
+        margin-right:4px;
+        background-image: url("palabrasingles.jpeg");
+        }
+        .imagensociales4{
+            background-repeat: no-repeat;
+            float:left;
+            height: 270px;
+            width: 270px;
+            margin-left: 4px;
+            margin-right:4px;
+            background-image: url("infobrafiasociales.jpeg");
+            }
 
