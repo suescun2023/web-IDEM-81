@@ -10,7 +10,7 @@ background-repeat: no-repeat;
 height: 230px;
 }
 .texto{
-font-size: 60px;
+font-size: 70px;
 text-align: justify;
 color: black; 
 }
@@ -41,7 +41,7 @@ background-image: url("imagentecno2.jpeg");
 .texto.tecnoP3{
 text-align: justify;
 color: black;
-font-size: 25px;
+font-size: 70px;
 }
 .imagenmate{
 background-repeat: no-repeat;
@@ -80,11 +80,6 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("Mapa\ mental\ sociales\ P2.jpeg")
 }
-.texto.sociP3{
-font-size: 60px;
-text-align: justify;
-color: black;
-} 
 .textobio{
 text-align: justify;
 color: black;
@@ -93,7 +88,7 @@ font-size: 25px;
 .texto.inP3{
 text-align: justify;
 color: black;
-font-size: 30px;
+font-size: 60px;
 }
 .imageninP3{
 background-repeat: no-repeat;
@@ -140,13 +135,49 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("imagen\ de\ ingles\ 4\ P3.jpg")
 }
+.imagenin5{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("");
+}
+.imagenin6{
+background-repeat: no-repeat;
+float:left;
+height: 350px;
+width: 350px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("imagen\ estereotipos\ P3.jpg");
+}
+.imagening7{
+background-repeat: no-repeat;
+float:left;
+height: 450px;
+width: 450px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("");
+}
+.imagenin8{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("palabrotas.jpg");
+}
 .video.tecnoP3{
 background-repeat: no-repeat;
 float:left;
-height: 280px;
-width: 260px;
-margin-left: 10px;
-margin-right: 10px;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right: 5px;
 background-image: url("Tecnologia\ video\ páginaweb\ P3.mp4");
 }
 .imagenmateP3{
@@ -176,54 +207,33 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("Factorizacion\ de\ suma\ y\ diferencia\ de\ cubos.jpg")
 }
-
-.imagenmate3{
-    background-repeat: no-repeat;
-    float:left;
-    height: 270px;
-    width: 270px;
-    margin-left: 4px;
-    margin-right:4px;
-    background-image: url("factorizacion\ ejemplos.jpeg");
-    }
-
-    .imageningles3{
-        background-repeat: no-repeat;
-        float:left;
-        height: 270px;
-        width: 270px;
-        margin-left: 4px;
-        margin-right:4px;
-        background-image: url("palabrotas.jpg");
-    
-        }
-.imageningles4{
-                background-repeat: no-repeat;
-                float:left;
-                height: 270px;
-                width: 270px;
-                margin-left: 4px;
-                margin-right:4px;
-                background-image: url("estereotipos.jpg");
-                }
-                .video1mateP3{
-                    background-repeat: no-repeat;
-                    float:left;
-                    height: 280px;
-                    width: 260px;
-                    margin-left: 10px;
-                    margin-right: 10px;
-                    background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 4.56.35\ PM.mp4");
-                    }
-                    .video2mateP3{
-                    background-repeat: no-repeat;
-                    float:left;
-                    height: 280px;
-                    width: 260px;
-                    margin-left: 10px;
-                    margin-right: 10px;
-                    background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
-                    }
+.imagen3mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 250px;
+width: 250px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("factorizacion\ de\ la\ forma\ ax2+bx+c.jpg");
+}
+.video1mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 280px;
+width: 260px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 4.56.35\ PM.mp4 ");
+}
+.video2mateP3{
+background-repeat: no-repeat;
+float:left;
+height: 280px;
+width: 260px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("WhatsApp\ Video\ 2023-10-31\ at\ 5.01.28\ PM.mp4");
+}
 .imagen1sociP3{
 background-repeat: no-repeat;
 float:left;
