@@ -10,7 +10,7 @@ background-repeat: no-repeat;
 height: 230px;
 }
 .texto{
-font-size: 45px;
+font-size: 70px;
 text-align: justify;
 color: black; 
 }
@@ -41,7 +41,7 @@ background-image: url("imagentecno2.jpeg");
 .texto.tecnoP3{
 text-align: justify;
 color: black;
-font-size: 45px;
+font-size: 70px;
 }
 .imagenmate{
 background-repeat: no-repeat;
@@ -55,7 +55,7 @@ background-image: url("Algebra.jpg");
 .texto.mateP3{
 text-align: justify;
 color: black;
-font-size: 45px;
+font-size: 60px;
 } 
 .imagenreli{
 background-repeat: no-repeat;
@@ -88,7 +88,7 @@ font-size: 25px;
 .texto.inP3{
 text-align: justify;
 color: black;
-font-size: 45px;
+font-size: 60px;
 }
 .imageninP3{
 background-repeat: no-repeat;
