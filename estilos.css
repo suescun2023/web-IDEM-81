@@ -252,3 +252,21 @@ margin-left: 5px;
 margin-right:5px;
 background-image: url("infografia2socialesP3.jpeg")
 }
+.inglesimagenp3{
+    background-repeat: no-repeat;
+    float:left;
+    height: 700px;
+    width: 700px;
+    margin-left: 5px;
+    margin-right:5px;
+    background-image: url("todossomosiguales.png")
+    }
+    .imageningles3{
+        background-repeat: no-repeat;
+        float:left;
+        height: 700px;
+        width: 700px;
+        margin-left: 5px;
+        margin-right:5px;
+        background-image: url("redesingles.PNG")
+        }
